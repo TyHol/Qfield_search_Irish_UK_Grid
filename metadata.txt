@@ -3,5 +3,5 @@ name=Grid_Searchbar
 description=Integrates IG UK GRID results into the search bar through 'grid' prefix
 author=Tyhol
 icon=icon.svg
-version=0.1
+version=1.0
 homepage=https://github.com/TyHol/Qfield_search_Irish_UK_Grid.git
